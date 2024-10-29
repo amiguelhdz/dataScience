@@ -1,4 +1,11 @@
-Curso: Curso: Temas selectos de Machine Learning e Inteligencia Artificial
-Autor: Antonio Miguel Hernández
+# Curso: Curso: Temas selectos de Machine Learning e Inteligencia Artificial  
 
-Abordaremos temas de machine learning clásico, como algoritmos de clasificación y algoritmos de ensamble, así como algunos algoritmos introductorios al procesamiento de lenguaje natural (NPL)
+## Autor: Antonio Miguel Hernández
+
+:::tip Alcance
+
+- Introduccion a python usando jupyter notebook
+- Aprendizaje Supervisado
+- Aprendizaje no supervisado y forecast
+- Inteligencia Artificial
+:::
