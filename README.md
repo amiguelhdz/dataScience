@@ -2,6 +2,8 @@
 
 ## Autor: Antonio Miguel Hernández
 
+## día uno
+
 :::tip Alcance
 
 - Introduccion a python usando jupyter notebook
